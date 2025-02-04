@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import colors from '../colors';  // Import all colors
-import pramanaImage from '../assets/PRAMANA.png';
+import pramanaImage from '../assets/Q.png';
 
 const DashPage = () => {
     const [selectedAgent, setSelectedAgent] = useState(null);

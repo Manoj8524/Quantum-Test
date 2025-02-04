@@ -15,6 +15,8 @@ const colors = {
     // HELP BUTTON 
     Color: "#FFFFFF",
     TextColor: "#000000",
+
+    
     
   };
   
